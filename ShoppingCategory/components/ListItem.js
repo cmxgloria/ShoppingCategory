@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   },
   listItemView: {
     flexDirection: 'row',
-    justifyContent: 'space-evenly',
+    justifyContent: 'space-around',
   },
   listItemText: {
     fontSize: 22,
